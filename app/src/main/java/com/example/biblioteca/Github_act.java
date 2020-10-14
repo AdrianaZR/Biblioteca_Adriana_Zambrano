@@ -42,6 +42,14 @@ public class Github_act extends AppCompatActivity {
                     valor = 45000;
                 }
 
+                else if (libro.equals("El Poder")){
+                    valor = 88000;
+                }
+
+                else if (libro.equals("Despertar")){
+                    valor = 156000;
+                }
+
                 texto.setText("El valor de "+libro +" es: "+valor);
             }
 
