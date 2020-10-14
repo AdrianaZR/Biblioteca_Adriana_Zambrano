@@ -33,10 +33,10 @@ public class Github_act extends AppCompatActivity {
                 int valor=0;
 
                 if(libro.equals("Fahrenheit")){
-                    valor=5000;
+                    valor=7000;
                 }
                 else if(libro.equals("Revival")){
-                    valor=12000;
+                    valor=22000;
                 }
                 else if (libro.equals("El Alquimista")){
                     valor = 45000;
